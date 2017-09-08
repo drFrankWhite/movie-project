@@ -8,7 +8,7 @@ It allows you to populate your own website with the movies and television shows 
 Simply follow the brief instructions below, then strap in for the wildest experience of your life.
 
 ### Installation
-    git clone https://github.com/fake/account
+    git clone https://github.com/drFrankWhite/movie-project.git
 
 ### Running Entertainment Center
     python /path/to/entertainment_center.py
